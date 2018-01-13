@@ -4,7 +4,7 @@ import (
 	"log"
 
 	"github.com/shack-32/shaneel-tor/server"
-	"github.com/shack-32/shaneel-tor/opts"
+	"github.com/jpillora/opts"
 )
 
 var VERSION = "0.0.0-src" //set with ldflags
