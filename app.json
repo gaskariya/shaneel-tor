@@ -1,0 +1,15 @@
+{
+	"name": "shaneel-tor",
+	"website": "https://github.com/shack-32/shaneel-tor",
+	"repository": "https://github.com/shack-32/shaneel-tor",
+	"env": {
+		"TITLE": {
+			"description": "Optionally set the title of this instance (defaults to 'Shaneel Torrent')",
+			"required": false
+		},
+		"AUTH": {
+			"description": "Optional HTTP authentication in the form user:password",
+			"required": false
+		}
+	}
+}
