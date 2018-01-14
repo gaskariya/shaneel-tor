@@ -12,7 +12,7 @@ var VERSION = "0.0.0-src" //set with ldflags
 func main() {
 	s := server.Server{
 		Title:      "Shaneel Tor",
-		Port:       9000,
+		Port:       9001,
 		ConfigPath: "shaneel-tor.json",
 	}
 
